@@ -2,5 +2,9 @@
 name = "rusty_cpuid"
 version = "0.1.0"
 edition = "2021"
+description = "A Rust library for detecting CPU features on x86_64 architectures."
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/bensatlantik/rusty_cpuid"
 
 [dependencies]
